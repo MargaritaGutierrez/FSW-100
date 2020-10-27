@@ -1,4 +1,3 @@
 # FSW-100
     Hello world
-    Hello
-    Hello world 3
+    Getting it!
