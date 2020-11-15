@@ -1,0 +1,8 @@
+.header {
+    color:blue
+}
+table, th, td, tr {
+    border: 3px solid black;
+    background-color: cadetblue;
+    
+}
