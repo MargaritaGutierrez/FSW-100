@@ -3,6 +3,17 @@
 }
 table, th, td, tr {
     border: 3px solid black;
-    background-color: cadetblue;
+    background-color: lightgray;
     
+}
+body, html {
+    background-color: rgb(175, 165, 150);
+    text-align: center;
+}
+.header2 {
+    color: steelblue;
+}
+.centered {
+    margin-left: auto;
+    margin-right: auto;
 }
