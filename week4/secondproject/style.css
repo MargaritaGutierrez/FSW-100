@@ -8,6 +8,7 @@ a {
     color: black;
 }
 .box1 {
+        font-size: 30px;
         width: 80%;
         height: auto;
         padding: 3px;
