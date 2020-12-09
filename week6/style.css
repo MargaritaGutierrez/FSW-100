@@ -1,0 +1,38 @@
+div {
+    height: 25px;
+    width: 25%;
+    border: 2px solid black;
+    background-color: red;
+}
+#box1:hover {
+    background-color: yellow;
+    height: 15px;
+    width: 35%;
+}
+#box2:hover {
+    text-align: center;
+    font-size: 10px;
+    transition-duration: 1s;
+}
+#box3:hover {
+    font-style: italic;
+    margin-left: 10px;
+    color: purple;
+}
+#box4:hover {
+    border:4px dashed darkblue;
+    transition-duration: 1s;
+    background-color: darkgreen;
+}
+#box5:hover {
+    transition-delay: 1s;
+    opacity: .8;
+    border: 5px solid green;
+
+}
+#box6:hover {
+    transition-duration: 2s;
+    background-color: indigo;
+    text-align: right;
+    border-radius: 15%;
+}
